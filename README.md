@@ -1,13 +1,5 @@
 #Demo Project
-training
-lalal
-jkenk
-ehecnjkc
 
-icdhbcdfvfvefdcdc
 
-<<<<<<< Updated upstream
-bdjjdn
-=======
-new changes
->>>>>>> Stashed changes
+
+This is a Demo Project 
