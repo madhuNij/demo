@@ -6,4 +6,8 @@ ehecnjkc
 
 icdhbcdfvfvefdcdc
 
+<<<<<<< Updated upstream
 bdjjdn
+=======
+new changes
+>>>>>>> Stashed changes
